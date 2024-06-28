@@ -6,8 +6,8 @@ Projeto realiazdo na pós graduação em Ciência de Dados da Unicarioca. O proj
 ## Análise da Proporção do Sexo
 
 A análise realizada inclui a proporção de sexo (masculino e feminino) dos alunos. 
-![Gráfico da Proporção do Sexo](![img1](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/4d18f9b1-384c-463a-97dd-9866a894dd5c)
-)
+![Gráfico da Proporção do Sexo] ![Uploading img1.png…]()
+
 
 ## Análise das Respostas mais frequentes na pesquisa
 
