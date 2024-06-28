@@ -6,49 +6,43 @@ Projeto realiazdo na pós graduação em Ciência de Dados da Unicarioca. O proj
 ## Análise da Proporção do Sexo
 
 A análise realizada inclui a proporção de sexo (masculino e feminino) dos alunos. 
-![Gráfico da Proporção do Sexo] (imagens/img1.png)
+![img1](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/9b98a720-7187-4496-8e86-e4b95485e714)
 
 
 ## Análise das Respostas mais frequentes na pesquisa
 
 Além da análise da proporção do sexo, foi realizada uma análise para identificar as respostas que mais apareceram na pesquisa. Esta análise ajuda a destacar as tendências e padrões nas respostas dos alunos.
+![img2](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/1f0ab781-4624-482f-b8db-ad2869504445)
 
-![Gráfico das Respostas Mais Comuns](![img2](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/4f35d09f-0be8-4de1-9b4b-9cd16a3ed641)
-)
+
 
 ## Análise da Proporção do Sexo para resposta na pesquisa
 
 A análise realizada inclui a proporção de sexo (masculino e feminino) dos alunos e como ambos responderam a pesquisa. 
+![img3](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/58557fa9-198d-42f9-9705-b16bd9f5142e)
 
-![Gráfico da Proporção do Sexo e resposta da pesquisa](![img3](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/5086194b-031e-466f-9226-7ea9f7a80569)
-)
 
 ## Análise das Respostas por Campus
 
 A quarta análise foi feita para examinar como cada campus respondeu à pesquisa. 
+![img4](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/5d7903e1-4922-496b-8253-dc0fe8c98b01)
 
-![Gráfico das Respostas por Campus](![img4](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/18a04cbb-ea16-4da0-ad7a-6e3ec323d910)
-)
 
 ## Análise das Respostas por Disciplina
 
 A análise foi feita para examinar como os grupos de diferentes disciplinas responderam à pesquisa.
+![img5](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/f804ef86-2946-4c24-a2b2-b9d1c7921a90)
 
-![Gráfico das Respostas por Disciplina](![img5](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/db46508d-d3af-4843-9514-f03dc4ffe94e)
-)
 
 ## Análise das Respostas por Período
 
 A análise foi feita para examinar como cada período acadêmico respondeu à pesquisa. 
+![img6](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/b24af8cb-7588-419e-a1d8-11d78059696f)
 
-![Gráfico das Respostas por Período](![img6](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/505d56c6-5789-4174-b5e5-1b3ee74a9d64)
-)
 
 ## Análise das Respostas por Dia de Estudo
 
 Esta análise examina como foi a resposta dos alunos de acordo com os dias em que eles estudam.
-
-![Gráfico das Respostas por Dia de Estudo](![img7](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/dc7fde5f-5736-48ef-8aab-d784054967a0)
-)
+![img7](https://github.com/MatheusAmorim7/An-lise-de-Dados-Computacional---Unicarioca-2024/assets/168905464/b5df2006-a7fd-478d-be9e-03e52d8a3239)
 
 
